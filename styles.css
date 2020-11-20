@@ -47,13 +47,18 @@ width:100%;
     color:#555555;
     font-family: 'Dancing Script', cursive;
 }
+
+h1
+{
+    font-size:8vw !important;
+}
 .title-discription
 {
     position: relative;
     left:58%;
     top:35%;
     width:30%;
-    font-size:1.5rem;
+    font-size:3vw;
     color:#555555;
     font-family: 'Architects Daughter', cursive;
     font-weight:bold;
@@ -116,7 +121,7 @@ h2{
 }
 
 .carousel {
-    width:50%;
+    width:75vw;
     margin:auto;
     /* padding-top:50px; */
     border: 3px solid grey;
