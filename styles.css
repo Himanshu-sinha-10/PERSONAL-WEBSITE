@@ -1,0 +1,173 @@
+
+/* body {
+     background-image: url("topbackground.jpg");
+      background-position: center; 
+     background-size: cover;
+     background-repeat:no-repeat;
+    width: 100%;
+    height: 100%;
+    /* max-width: 1920px;  */ 
+
+html,body
+{
+    height:100%;
+}
+
+#navbar
+{
+  background-color:grey !important; 
+  border-bottom:4px solid rgb(255, 251, 7);
+}
+.first-container
+{
+height:100%;
+width:100%;
+ text-align: center;
+ background-image: url("topbackground.jpg");
+ background-size: 100% 100%;
+ border-bottom:4px solid rgb(255, 251, 7);
+}
+
+
+
+.pro 
+{
+    text-decoration: underline;
+}
+
+
+
+
+.name{
+    position: relative;
+    left:60%;
+    top:30%;
+    width:25%;
+    font-size: 5rem;
+    color:#555555;
+    font-family: 'Dancing Script', cursive;
+}
+.title-discription
+{
+    position: relative;
+    left:58%;
+    top:35%;
+    width:30%;
+    font-size:1.5rem;
+    color:#555555;
+    font-family: 'Architects Daughter', cursive;
+    font-weight:bold;
+
+}
+
+
+.middle-container
+{
+    text-align:center;
+    background-color:#888888;
+    /* background-color:#cdc9c3; */
+    /* color:rgb(231, 229, 229); */
+    color:#fbf7f0;
+    /* padding-bottom:100px; */
+    border-bottom:4px solid rgb(255, 251, 7);
+}
+
+.skill-row
+{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    
+}
+
+
+.web-dev
+{
+    width:15%;
+    float:left;
+    margin-right: 30px;
+
+}
+
+.cpp{
+    width:15%;
+    float:right;
+    margin-left:30px;
+}
+.photography
+{
+    width:15%;
+    float:left;
+    margin-right: 30px;
+}
+
+h2{
+    padding-top:50px;
+    font-size:50px;
+}
+
+.last-container
+{
+    text-align:center;
+    
+    background-color:#e4e4e4f8;
+    padding-bottom: 100px;
+    border-bottom:4px solid rgb(255, 251, 7);
+}
+
+.carousel {
+    width:50%;
+    margin:auto;
+    /* padding-top:50px; */
+    border: 3px solid grey;
+    border-radius:10px;
+}
+
+.word-project
+{
+    color:#3a3a3a;
+    padding-bottom:50px;
+}
+
+.survey-form
+{
+    color:rgb(4, 228, 209);
+    background-color:white;
+}
+
+
+.contact-me
+{
+    text-align:center;
+}
+.footer
+{
+    text-align:center;
+    background-color:#888888;
+    padding:25px;
+    margin-top:30px;
+    border-top:4px solid rgb(255, 251, 7); 
+}
+
+.footer-link{
+    margin: 15px;
+    color:rgb(245, 241, 241);
+}
+
+.btn {
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #fafafa !important;
+  font-size: 24px;
+  background: #797b7d !important;
+  padding: 7px 20px 7px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: rgb(255, 251, 7) !important;
+  text-decoration: none;
+  color: black !important;
+}

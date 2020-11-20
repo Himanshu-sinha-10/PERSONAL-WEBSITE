@@ -1,0 +1,59 @@
+body{
+    text-align:center;
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: 1px;
+    color:#333333;
+}
+#main{
+    background-color:rgb(220,220,220);
+    max-width: 100%;
+    height:auto;
+    display:inline-block;
+    width:100%;
+}
+#img-div{
+  
+padding:10px;
+background-color: white;
+display:block;
+margin:0 15px;
+    
+}
+#image{
+  
+  display:block;
+  margin:0 auto;
+}
+ul{
+    margin:0 auto;
+    max-width: 590px;
+    list-style: inside;
+    
+    
+}
+#tribute-info{
+    text-align:left;
+    line-height: 30px;
+}
+li{
+    margin:15px 0;
+}
+h1{
+    margin-top:28.6px;
+}
+h3{
+    margin:50px 0;
+}
+#para1{
+    margin:16px 0;
+}
+#dediline{
+    text-align: center;
+    font-family: 'Livvic', sans-serif;
+    font-size: 20px;
+}
+.responsive{
+    max-width: 100%;
+    max-height:500px;
+
+}
