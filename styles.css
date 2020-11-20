@@ -43,15 +43,15 @@ width:100%;
     left:60%;
     top:30%;
     width:25%;
-    font-size: 5rem;
+    font-size: 8vw;
     color:#555555;
     font-family: 'Dancing Script', cursive;
 }
 
-h1
+/* h1
 {
-    font-size:8vw !important;
-}
+    font-size:2vw !important;
+} */
 .title-discription
 {
     position: relative;
